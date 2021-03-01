@@ -1,0 +1,19 @@
+en:
+  global:
+    forms:
+      messages:
+        errors:
+          one: "One error prohibited this contact from being saved"
+          other: "%{count} errors prohibited this contact from being saved"
+      submit: "Send Message"
+  contacts:
+    index:
+      send_message: "Send Us A Message"
+      name: "Tell us your name"
+      email: "Enter your email"
+      phone_number: "Enter phone number"
+      message: "Message"
+      address: "Address"
+      first_name: "First Name"
+      last_name: "Last Name"
+      write_message: "Write Us A Message"
